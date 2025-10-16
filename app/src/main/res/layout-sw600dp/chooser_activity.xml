@@ -25,7 +25,7 @@
         android:contentDescription="@id/wallpaper"
         android:scaleType="centerCrop"
         tool:src="@drawable/icy_cone"/>
-    
+
     <com.google.android.material.materialswitch.MaterialSwitch
         android:id="@+id/preview"
         android:layout_width="wrap_content"
@@ -33,7 +33,7 @@
         android:background="@drawable/bg_preview"
         android:layout_gravity="top|end"
         android:paddingHorizontal="16dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginTop="34dp"
         android:layout_marginEnd="16dp"
         android:text="@string/preview" />
     
@@ -54,7 +54,7 @@
         android:fitsSystemWindows="true"
         android:foregroundGravity="center"
         android:orientation="vertical"
-        android:layout_marginHorizontal="48dp"
+        android:layout_marginHorizontal="96dp"
         android:paddingHorizontal="8dp"
         android:paddingVertical="24dp"
         android:weightSum="3"
@@ -75,7 +75,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="3dp"/>
 
-        <Button
+        <com.google.android.material.button.MaterialButton
             android:id="@+id/set"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
