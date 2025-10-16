@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wallpapers</string>
+    <string name="wallpaper_instructions">Setel wallpaper</string>
+    <string name="apply_close">Keluar</string>
+    <string name="preview">Pratinjau</string>
+    <string name="wallpaper_instructions_both_destination">Layar Utama dan layar kunci</string>
+    <string name="wallpaper_instructions_home_screen_destination">Layar Utama</string>
+    <string name="wallpaper_instructions_lock_screen_destination">Layar Kunci</string>
+    <string name="collapse_attribution_panel">"Ciutkan panel info wallpaper"</string>
+    <string name="expand_attribution_panel">"Luaskan panel info wallpaper"</string>
+    <string name="explore_further">Jelajahi</string>
+</resources>

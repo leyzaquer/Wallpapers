@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="extra_wallpapers">
+    </string-array>
+    <string-array name="wallpapers" translatable="false">
+        <item>icy_cone</item>
+        <item>dystopia</item>
+        <item>beam</item>
+        <item>constraint</item>
+        <item>crystal_burn</item>
+        <item>motif</item>
+        <item>gradient_ocean</item>
+        <item>escape_river</item>
+        <item>noir</item>
+        <item>leaf</item>
+        <item>vibelity</item>
+        <item>chroma</item>
+        <item>bucky</item>
+        <item>kepler</item>
+        <item>flora</item>
+        <item>fidelity</item>
+        <item>architecture</item>
+        <item>city</item>
+        <item>glowy_hex</item>
+        <item>lotus</item>
+        <item>village</item>
+        <item>stream</item>
+        <item>phasebeam</item>
+        <item>street_lights</item>
+        <item>grass_night</item>
+        <item>grass</item>
+        <item>despair</item>
+    </string-array>
+
+    <string-array name="info" translatable="false">
+        <item>Icy Cone - Material You</item>
+        <item>The Dystopia\'s - Material Design</item>
+        <item>Beam - Holo</item>
+        <item>Constraint - Holo</item>
+        <item>Crystal\'s Burn - Holo</item>
+        <item>Motif - Holo</item>
+        <item>Gradient Ocean - Holo</item>
+        <item>Escape River\'s - Holo</item>
+        <item>Noir - Holo</item>
+        <item>Leaf - Holo</item>
+        <item>Vibelity - Holo</item>
+        <item>Chroma - Holo</item>
+        <item>Bucky - Holo</item>
+        <item>Kepler - Holo</item>
+        <item>Flora - Holo</item>
+        <item>Fidelity - Holo</item>
+        <item>Architecture - Holo</item>
+        <item>City - Holo (Earlier)</item>
+        <item>Glowy Hex - Holo (Earlier)</item>
+        <item>Lotus - Holo (Earlier)</item>
+        <item>Village\'s - Holo (Earlier)</item>
+        <item>Stream - Android</item>
+        <item>Phase Beam - Android</item>
+        <item>Street Light\'s - Android</item>
+        <item>Grass Night - Android</item>
+        <item>Grass - Android</item>
+        <item>Despair\'s - Android</item>
+    </string-array>
+</resources>
