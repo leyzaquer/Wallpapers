@@ -40,6 +40,8 @@ dependencies {
 
     //noinspection UseTomlInstead
     implementation("androidx.activity:activity:$activity_version")
+    implementation ("com.geyifeng.immersionbar:immersionbar:3.2.2")
+    implementation("com.geyifeng.immersionbar:immersionbar-ktx:3.2.2")
 
     implementation(libs.appcompat)
     implementation(libs.material)
